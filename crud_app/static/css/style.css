@@ -1,0 +1,30 @@
+
+.navbar-brand {
+    font-weight: 600;        
+}
+
+.sidebar {
+    min-height: calc(100vh - 56px);
+    background-color: #f8f9fa;
+    border-right: 1px solid #dee2e6;
+}
+
+.content {
+    padding: 20px;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.card-header {
+    background-color: #fff;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.footer {
+    padding: 1rem 0;
+    background-color: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+}
